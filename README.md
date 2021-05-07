@@ -1,2 +1,2 @@
 # kuliah
-This reposiory is contain my homework as electrical engineering student
+This reposiory contain my homework as electrical engineering student
